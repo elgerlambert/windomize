@@ -1,0 +1,10 @@
+Version 1.0
+
+Windomize makes (groups of) divs draggable and resizable, whose contents can be toggled (smoothly animated).
+
+Windomize manages the state of each div - open, closed, hover, focus. The corresponding styling for each state is fully customizable through jquery.windomize.css.
+
+Demo included; Example.html.
+Live example @ http://www.paulinspandex.nl/
+
+	- Elger Lambert

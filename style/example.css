@@ -1,0 +1,42 @@
+body {
+	background-color: gray;
+}
+
+p, h1 { text-decoration:none; font-family: Arial, Helvetica, sans-serif; color: black; }
+
+p {
+	text-align: justify; 
+	font-size: 90%;
+	margin: 5px 15px 10px 15px; 
+}
+
+h1 {
+	font-size: 100%;
+	margin-left: 15px; 
+}
+
+img {
+	float: right;
+	top: 25px;
+	right: 15px;
+	margin: 45px 15px 0 10px;
+}
+
+.scroll {
+	height: 100%;
+	overflow-y: scroll;
+}
+
+#div1 {
+	top: 10px;
+	left: 55px;
+}
+#div2 {
+	top: 40px;
+	left: 55px;
+
+}
+#div2.windomize-open {
+	width: 480px;
+	height: 280px;
+}
